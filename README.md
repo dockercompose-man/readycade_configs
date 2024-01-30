@@ -1,4 +1,4 @@
-# Readycade Configurations Install
+# Readycade Configurations
 
 This is what separates the boys from the men. A complete arcade setup in under 5 minutes!
 
