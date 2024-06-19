@@ -9,7 +9,7 @@ This is what separates the boys from the men. A complete arcade setup in under 5
 
 ### Windows 10/11, Linux and MacOS Supported
 
-Select between **Normal** and **Interger Scaled** Configurations and press **Download**. Let Readycade_EZ_Installer.exe do all the work!
+Select between **Normal** and **Interger Scaled** Configurations and press **Download**. Let ReadyConfigPacks.exe do all the work!
 
 #### Notes:
 Users must authenticate with Readycade servers to use this Application.
