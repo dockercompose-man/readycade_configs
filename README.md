@@ -14,5 +14,14 @@ Select between **Normal** and **Interger Scaled** Configurations and press **Dow
 #### Notes:
 Users must authenticate with Readycade servers to use this Application.
 
+## GAMEMODE (increases the framerate in some emulators)
+
+open a command prompt on windows or terminal on linux/macos
+enter the commands below:
+
+`wget https://github.com/readycade/readysync/raw/master/share/userscripts/.config/gamemode/gamemode-x64.zip`
+
+`unzip -o gamemode-x64.zip -d /`
+
 ### Screenshot of Readycade EZ Installer
 ![Readycade EZ Installer](https://github.com/readycade/readycade_configs/blob/master/readycade_configs.PNG)
