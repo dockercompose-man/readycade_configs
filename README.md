@@ -14,7 +14,7 @@ Select between **Normal** and **Interger Scaled** Configurations and press **Dow
 #### Notes:
 Users must authenticate with Readycade servers to use this Application.
 
-## GameMode (increases the framerate in some emulators)
+## GameMode 1.8.1 x64 (increases the framerate in some emulators)
 
 open a command prompt on windows or terminal on linux/macos
 enter the commands below:
