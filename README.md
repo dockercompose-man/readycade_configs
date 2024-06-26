@@ -19,6 +19,11 @@ Users must authenticate with Readycade servers to use this Application.
 open a command prompt on windows or terminal on linux/macos
 enter the commands below:
 
+login
+`ssh root@recalbox`
+password
+`recalboxroot`
+
 `wget https://github.com/readycade/readysync/raw/master/share/userscripts/.config/gamemode/gamemode-x64.zip`
 
 `unzip -o gamemode-x64.zip -d /`
