@@ -3,7 +3,7 @@
 This is what separates the boys from the men. A complete arcade setup in under 5 minutes!
 
 ## Click the Picture below to Watch the ReadyConfigPacks Tutorial
-[![EZ Installer](EZ_Installer.jpg)](https://www.youtube.com/watch?v=alRtrSygBp0)
+[![EZ Installer](EZ_Installer.jpg)](https://readycade.com/2023/11/02/readycade-installer-1-0-tutorial/)
 
 ## Installation
 
