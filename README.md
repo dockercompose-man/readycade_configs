@@ -3,7 +3,7 @@
 This is what separates the boys from the men. A complete arcade setup in under 5 minutes!
 
 ## Click the Picture below to Watch the ReadyConfigPacks Tutorial
-[![EZ Installer](EZ_Installer.jpg)](https://readycade.com/2023/11/02/readycade-installer-1-0-tutorial/)
+[![EZ Installer](EZ_Installer.jpg)](https://www.youtube.com/watch?v=txWcgfGFG4w)
 
 ## Installation
 
@@ -15,6 +15,7 @@ Select between **Normal** and **Interger Scaled** Configurations and press **Dow
 Users must authenticate with Readycade servers to use this Application.
 
 ## GameMode 1.8.1 x64 (increases the framerate in some emulators)
+### Note: This is PRE-INSTALLED if you use Readycade Configs
 
 open a command prompt on windows or terminal on linux/macos
 enter the commands below:
